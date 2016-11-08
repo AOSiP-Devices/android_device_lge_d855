@@ -50,10 +50,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     NfcNci \
     nfc_nci.pn54x.default
-    
-# Telephony-ext
-PRODUCT_PACKAGES += telephony-ext
-PRODUCT_BOOT_JARS += telephony-ext
 
 # FM Radio
 PRODUCT_PACKAGES += \
